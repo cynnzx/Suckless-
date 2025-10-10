@@ -1,0 +1,18 @@
+# Ignore build outputs
+*.o
+*.rej
+*.orig
+*.diff
+*.patch
+*.swp
+
+# Ignore compiled binaries
+dwm
+st
+dmenu
+slstatus
+
+# Ignore hidden files
+.*
+!.gitignore
+
