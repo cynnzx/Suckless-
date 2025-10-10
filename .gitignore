@@ -7,10 +7,7 @@
 *.swp
 
 # Ignore compiled binaries
-dwm
-st
-dmenu
-slstatus
+
 
 # Ignore hidden files
 .*
