@@ -9,7 +9,9 @@
 # Ignore compiled binaries
 
 
-# Ignore hidden files
-.*
+# Ignore editor nackups and swp files 
+*.swp
+*~
+# Keep normal hidden source/config files
 !.gitignore
 
